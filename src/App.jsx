@@ -11,7 +11,7 @@ const App = () => {
   return (
     <FormProvider>
       <div className="grid min-h-[100svh] items-center bg-muted-foreground">
-        <div className="app flex flex-auto items-center">
+        <div className="app flex flex-auto">
           <div className="sidebar">
             <SideBar />
           </div>
